@@ -16,3 +16,6 @@ I have already noticed I could improve the way my code looks by utilizing the no
 <!-- Thoughts during the creation of the Cheescake webpage -->
 
 I just remembered I should practice creating branches instead of comitting to the main branch. I will make a mental note of this for the next recipe webpage.
+
+For some reason, I got tripped up trying to create the instructions layout. I ended up using the spaghetti recipe for a guide. In the end it worked out, and I'm not only satisfied that it looks clean, but it took me less over all time to create than my previous webpage
+
