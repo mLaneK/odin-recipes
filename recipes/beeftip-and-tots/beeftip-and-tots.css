@@ -1,0 +1,45 @@
+
+* {
+    font-family: papyrus;
+}
+
+body {
+    background-color: beige;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    width: 200px;
+    height: auto;
+}
+
+p {
+    margin: 20px auto;
+    width: 500px;
+    text-indent: 10px;
+}
+
+.list {
+    width: 500px;
+    margin: 20px auto;
+}
+
+button {
+    font-size: large;
+    background-color: khaki;
+}
+
+a:visited {
+    color: black;
+}
+
+a:link {
+    color: black;
+}

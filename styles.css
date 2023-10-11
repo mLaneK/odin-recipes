@@ -1,0 +1,37 @@
+body {
+    background-color: beige;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a:visited,
+a:link,
+a {
+    color: #e0ad89;
+    text-decoration: none;
+    font-size: large;
+}
+
+* {
+    text-align: center;
+}
+
+h1 {
+    font-family: papyrus;
+}
+
+button {
+    background-color: brown;
+}
+
+.recipe-links {
+    display: block;
+}
+
